@@ -3,7 +3,7 @@ name: Schedule Diagnostic
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "37 * * * *"
   workflow_dispatch:
 
 jobs:
